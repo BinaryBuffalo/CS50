@@ -2,15 +2,15 @@
 cat /root/.bash_history
 
 
-git add main.html    | selects file to upload
-git commit -m "Info" | Adds info about push
-git status           | Shows github status
-git push             | Confirms Changes
+git add main.html      | selects file to upload
+git commit -m "Info"   | Adds info about push
+git status             | Shows github status
+git push               | Confirms Changes
  
 OR
 
-git commit -am "Info" | shortcut with no (git add)
-git push              | Confirms Changes
+git commit -am "Info"  | shortcut with no (git add)
+git push               | Confirms Changes
 
 
 OR Branches
