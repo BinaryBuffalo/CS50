@@ -17,6 +17,7 @@ OR Branches
 
 Git branch             | Shows current branch & info on other branches
 Git checkout -b NAME   | Creates a new branch 
+git branch -D NAME     | deletes a branch
 Git checkout NAME      | changes current Branch
 
 
