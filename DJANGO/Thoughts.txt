@@ -1,0 +1,15 @@
+Author: BakedBinary | bakedbins
+  date: 7 / 22 / 2021 
+
+notes >
+    I noticed that Python can be really sensitive when it comes
+    to spacing & small things can mess the whole application up,
+    It took some getting used to as I am very use too using alot of
+    tabs in C developement.
+
+    Django has alot of differances & constant updates something
+    That is made months agow may not work on a newer version.
+
+    I think some more python training would make this alot more easy 
+    but that will have to wait as im only on page 20 in my python 
+    crashcourse book.
